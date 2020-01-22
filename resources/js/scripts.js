@@ -24,7 +24,7 @@ $(document).ready(function(){
  			 offset: '50%;;'
 	});
 
-	$('.js--wp-2').waypoint(function(direction){
+	/*$('.js--wp-2').waypoint(function(direction){
 		$('.js--wp-2').addClass('animated fadeInUp');
 		}, {
  			 offset: '50%;;'
@@ -34,7 +34,7 @@ $(document).ready(function(){
 		$('.js--wp-3').addClass('animated fadeInRight');
 		}, {
  			 offset: '50%;;'
-	});
+	});*/
 
 	$('.js--nav-icon').click(function(){
 		var nav = $('.js--main-nav');
