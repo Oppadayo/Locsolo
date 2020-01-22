@@ -408,7 +408,7 @@ footer p{
 /* ------------ */
 /*  ANIMATIONS   */
 /* ------------ */
-.js--wp-1{
+/*.js--wp-1{
 	opacity: 0;
 	-webkit-animation-duration: 3s;
 	        animation-duration: 3s;
@@ -424,3 +424,4 @@ footer p{
 .js--wp-3 .animated{
 	opacity: 1;
 }
+*/
